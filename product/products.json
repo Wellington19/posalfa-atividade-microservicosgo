@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "uuid": "c32537ae-2124-4b92-893c-9f79183a77e4",
+      "product": "Placa de Video PNY NVIDIA Geforce RTX 3060Ti Dual Fan, 8GB GDDR6, LHR, DLSS, Ray Tracing - VCG3060T8LDFBPB1",
+      "price": "2699.99"
+    },
+    {
+      "uuid": "ddd8c008-f1ba-4257-8c6e-afcff0181e60",
+      "product": "Headset Gamer HyperX Cloud Stinger, Drivers 50mm, Múltiplas Plataformas, P2 e P3 - HX-HSCS-BK/NA",
+      "price": "199.99"
+    },
+    {
+      "uuid": "4f1ccaa1-9306-446a-8b28-7f45f4c930fc",
+      "product": "Smartphone Samsung Galaxy A13, 4GB RAM, 128GB, Octa Core, Câmera Quádrupla 50MP, Tela Infinita 6.6, Azul - SM-A135MLBLZTO",
+      "price": "1079.10"
+    },
+    {
+      "uuid": "d9d45937-72fc-44d1-a07b-b1e5849a1f93",
+      "product": "Monitor Gamer Husky Storm 27' LED, Curvo, 165 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Ajuste de Ângulo - HGMT001",
+      "price": "1399.99"
+    },
+    {
+      "uuid": "288baa56-6331-4d61-a5fe-b5ac5f003da5",
+      "product": "Monitor HQ 19.5 LED, HD, HDMI/VGA, VESA, Ajuste de Inclinação - 19.5HQ-LED",
+      "price": "479.99"
+    }
+  ]
+}

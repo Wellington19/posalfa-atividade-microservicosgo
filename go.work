@@ -1,0 +1,10 @@
+go 1.19
+
+use (
+	./catalog
+	./product
+	./checkout
+	./order-checkout
+	./order-payment
+	./payment
+)
